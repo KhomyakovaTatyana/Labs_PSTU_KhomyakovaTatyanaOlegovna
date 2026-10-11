@@ -9,8 +9,8 @@ int main(){
     int n0 = n, m0 = m;
     cout << "n++m = " << (n++ * m) << " n=" << n << " m=" << m << endl;
     n = n0, m = m0;
-    cout << "n++<m "<< (n++ < m) << " n=" << n << " m=" << m << endl;
+    cout << "n++<m = "<< (n++ < m) << " n=" << n << " m=" << m << endl;
     n = n0, m = m0;
-    cout << "m-->m" << (m-- > m) << " n=" << n << " m="<< m <<endl;
+    cout << "m-->m = " << (m-- > m) << " n=" << n << " m="<< m <<endl;
     return 0;
 }
