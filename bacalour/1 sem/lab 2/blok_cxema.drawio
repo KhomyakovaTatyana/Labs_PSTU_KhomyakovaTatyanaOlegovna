@@ -1,0 +1,138 @@
+<mxfile host="Electron">
+  <diagram name="Страница-1" id="wRILYRFjEzD7rB1QNi5T">
+    <mxGraphModel dx="1704" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MHCmThojObLmZdPVsSDw-2" edge="1" parent="1" source="MHCmThojObLmZdPVsSDw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div style=&quot;&quot;&gt;Начало&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="280" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-4" edge="1" parent="1" source="MHCmThojObLmZdPVsSDw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="#include &amp;lt;iostream&amp;gt;" vertex="1">
+          <mxGeometry height="20" width="170" x="290" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-7" edge="1" parent="1" source="MHCmThojObLmZdPVsSDw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375" y="130" />
+              <mxPoint x="375" y="130" />
+            </Array>
+            <mxPoint x="375" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="#include &amp;lt;cmath&amp;gt;" vertex="1">
+          <mxGeometry height="20" width="170" x="290" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-9" edge="1" parent="1" source="MHCmThojObLmZdPVsSDw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="#include &amp;lt;windows.h&amp;gt;" vertex="1">
+          <mxGeometry height="20" width="170" x="290" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-11" edge="1" parent="1" source="MHCmThojObLmZdPVsSDw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="using namespace std;" vertex="1">
+          <mxGeometry height="20" width="170" x="290" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-14" edge="1" parent="1" source="MHCmThojObLmZdPVsSDw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="int main(){" vertex="1">
+          <mxGeometry height="20" width="170" x="290" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-16" edge="1" parent="1" source="MHCmThojObLmZdPVsSDw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SetConsoleOutputCP(CP_UTF8);" vertex="1">
+          <mxGeometry height="20" width="180" x="285" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-18" edge="1" parent="1" source="MHCmThojObLmZdPVsSDw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MHCmThojObLmZdPVsSDw-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="359.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="double a = exp(-1.0);" vertex="1">
+          <mxGeometry height="20" width="120" x="315" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-20" edge="1" parent="1" source="MHCmThojObLmZdPVsSDw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="double s = 0;" vertex="1">
+          <mxGeometry height="20" width="120" x="315" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-22" edge="1" parent="1" source="MHCmThojObLmZdPVsSDw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-26" edge="1" parent="1" source="MHCmThojObLmZdPVsSDw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" x="-0.55" as="geometry">
+            <mxPoint x="640" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-21" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="for (int n = 1; n&amp;lt;=9; n++){" vertex="1">
+          <mxGeometry height="50" width="320" x="215" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-24" edge="1" parent="1" source="MHCmThojObLmZdPVsSDw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="s += a;" vertex="1">
+          <mxGeometry height="20" width="120" x="315" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-27" edge="1" parent="1" source="MHCmThojObLmZdPVsSDw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MHCmThojObLmZdPVsSDw-21">
+          <mxGeometry relative="1" x="-0.6444" as="geometry">
+            <Array as="points">
+              <mxPoint x="195" y="545" />
+              <mxPoint x="195" y="425" />
+            </Array>
+            <mxPoint x="100" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="a = a * exp(-1.0 / (sqrt((double)n) + sqrt((double)(n+1)))); }" vertex="1">
+          <mxGeometry height="30" width="300" x="230" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-30" edge="1" parent="1" source="MHCmThojObLmZdPVsSDw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="659.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cout &amp;lt;&amp;lt; &quot; Сумма 9 членов ряда = &quot;&amp;nbsp; &amp;lt;&amp;lt; s &amp;lt;&amp;lt; endl;" vertex="1">
+          <mxGeometry height="30" width="320" x="480" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-32" edge="1" parent="1" source="MHCmThojObLmZdPVsSDw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="709.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="return 0; }" vertex="1">
+          <mxGeometry height="20" width="120" x="580" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="MHCmThojObLmZdPVsSDw-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Конец&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="565" y="710" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
